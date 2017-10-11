@@ -27,4 +27,5 @@ Built an image classification application that could classify images of food ite
 24.Tiramisu
 25.Waffle
 
+
 The CNN model was able to classify food items from these 25 types with an accuracy of 66%
